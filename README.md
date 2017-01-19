@@ -1,10 +1,19 @@
-# iso-stack
+# flashcards
 
-One Paragraph of project description goes here
+Flashcards as a learning tool to aid memorization by means of spaced repetition.
 
-## Getting Started
+This personal project is an universal app build with react/redux. Isomorphic boilerplate taken from the iso-stack project. Will be full-stack and the back-end tech stack will be Swagger and sequelize.
 
-Creating an isomorphic React Redux App
+Right now just started, this is how the html templates look like right now:
+
+Main:
+
+![alt tag](http://assets.fincaspace.com/img/flashcard_index.png)
+
+And the single card:
+
+![alt tag](http://assets.fincaspace.com/img/flashcards-single_card.png)
+
 
 ### Installing
 
