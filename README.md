@@ -17,11 +17,13 @@ And the single card:
 
 ### Installing
 
-First install dependencies:
+First install dependencies
 
 ```
 npm install
 ```
+This is a full stack app, therefore server side needs to be taken care off.
+Go to the api folder and read instructions there (README.md)
 
 To run in development:
 
